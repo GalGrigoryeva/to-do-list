@@ -1,0 +1,16 @@
+.panel-heading {
+  width: 60vw;
+}
+
+.panel-body {
+  width: 60vw;
+}
+
+ul {
+  width: 60vw;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
